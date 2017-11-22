@@ -15,7 +15,7 @@ import java.lang.Override;
 public class AuthNomorHp_ViewBinding implements Unbinder {
   private AuthNomorHp target;
 
-  private View view2131296302;
+  private View view2131296305;
 
   @UiThread
   public AuthNomorHp_ViewBinding(AuthNomorHp target) {
@@ -32,7 +32,7 @@ public class AuthNomorHp_ViewBinding implements Unbinder {
     target.authHp = Utils.findRequiredViewAsType(source, R.id.authHp, "field 'authHp'", EditText.class);
     view = Utils.findRequiredView(source, R.id.btnVerify, "field 'btnVerify' and method 'onViewClicked'");
     target.btnVerify = Utils.castView(view, R.id.btnVerify, "field 'btnVerify'", Button.class);
-    view2131296302 = view;
+    view2131296305 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -53,7 +53,7 @@ public class AuthNomorHp_ViewBinding implements Unbinder {
     target.authHp = null;
     target.btnVerify = null;
 
-    view2131296302.setOnClickListener(null);
-    view2131296302 = null;
+    view2131296305.setOnClickListener(null);
+    view2131296305 = null;
   }
 }

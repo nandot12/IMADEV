@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LibaWayDevSummit.iml" filepath="$PROJECT_DIR$/LibaWayDevSummit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IMADEV.iml" filepath="$PROJECT_DIR$/IMADEV.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/assets"/><source path="/Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/khilman/Documents/IMADEV/app/src/main/assets"/><source path="/home/khilman/Documents/IMADEV/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/khilman/Documents/IMADEV/app/src/debug/assets"/></dataSet></merger>

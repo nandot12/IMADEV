@@ -1,0 +1,4 @@
+#Wed Nov 22 14:38:02 WIB 2017
+base.0=/home/khilman/Documents/IMADEV/app/build/intermediates/transforms/dexMerger/debug/3
+renamed.0=classes.dex
+file.0=/home/khilman/Documents/IMADEV/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex

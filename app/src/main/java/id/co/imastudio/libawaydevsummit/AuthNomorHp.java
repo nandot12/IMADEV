@@ -28,7 +28,7 @@ public class AuthNomorHp extends BaseApp{
         ButterKnife.bind(this);
 
 
-        actionLogin();
+       // actionLogin();
 
         authName.setText(sesi.getNama());
         authEmail.setText(sesi.getEmail());

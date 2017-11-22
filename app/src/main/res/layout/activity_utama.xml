@@ -7,14 +7,9 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg"
     tools:context="id.co.imastudio.libawaydevsummit.Utama">
-
-
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textColor=""
         android:text="Punya Limbah,daftar disini "/>
-
-
 
 </RelativeLayout>

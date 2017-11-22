@@ -10,6 +10,9 @@
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
@@ -27,7 +30,18 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="id.co.imastudio.libawaydevsummit.provider"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
@@ -35,6 +49,11 @@
         <activity
             android:name="id.co.imastudio.libawaydevsummit.MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
 
         <!-- Add this -->
@@ -59,24 +78,22 @@
         </activity>
         <activity
             android:name="id.co.imastudio.libawaydevsummit.RegisterActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity
             android:name="id.co.imastudio.libawaydevsummit.LaunchScreenActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
-        <activity android:name="id.co.imastudio.libawaydevsummit.BaseApp" >
-        </activity>
+        <activity android:name="id.co.imastudio.libawaydevsummit.BaseApp" />
         <activity
             android:name="id.co.imastudio.libawaydevsummit.AuthNomorHp"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-        </activity>
-        <activity android:name="id.co.imastudio.libawaydevsummit.Utama" >
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name="id.co.imastudio.libawaydevsummit.Utama" />
+        <activity
+            android:name="id.co.imastudio.libawaydevsummit.TambahLimbahActivity"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name="id.co.imastudio.libawaydevsummit.PenjualLimbah.DashboardPenjualActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
         </activity>
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
@@ -92,6 +109,11 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:exported="true"
             android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
 
+        <activity
+            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/EasyPermissions.Transparent" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
@@ -153,6 +175,9 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
         <meta-data
             android:name="android.arch.lifecycle.VERSION"
             android:value="27.0.0-SNAPSHOT" />
