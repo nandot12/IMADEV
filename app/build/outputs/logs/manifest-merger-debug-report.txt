@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#android.support.v4.content.FileProvider
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:20:9-28:20
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:19:9-27:20
 	android:grantUriPermissions
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:24:13-47
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:23:13-47
 	android:authorities
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:22:13-60
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:21:13-60
 	android:exported
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:23:13-37
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:21:13-67
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:20:13-67
 manifest
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
 MERGED from [com.jakewharton:butterknife:8.8.1] /root/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/095d3d5bdaedaf96ec3b6b02600b8ae7/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/12970a3425d6e0d79ed09342ffcab6fd/AndroidManifest.xml:16:1-26:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/ec9168b656534c3dc8b6c768d4c11f10/AndroidManifest.xml:21:1-30:12
@@ -55,20 +55,20 @@ MERGED from [com.google.firebase:firebase-common-license:11.6.0] /root/.gradle/c
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/69ed54d42f14c7dc084780b138872177/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/3e7f9952a1b4cba206fe3d263becc69c/AndroidManifest.xml:2:1-6:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7d7c786bce2f585f489e1dc01ba4d548/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
-INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
 	package
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-82:12
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:1-83:12
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:2:11-69
@@ -93,19 +93,19 @@ MERGED from [com.google.firebase:firebase-iid:11.6.0] /root/.gradle/caches/trans
 	android:name
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:9:5-79
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:8:5-80
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:9:22-77
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:8:22-77
 uses-permission#android.permission.CAMERA
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:10:5-64
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:9:5-65
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:10:22-62
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:9:22-62
 application
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:12:5-80:19
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:11:5-81:19
 MERGED from [com.google.android.gms:play-services-auth:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/12970a3425d6e0d79ed09342ffcab6fd/AndroidManifest.xml:19:5-25:19
 MERGED from [com.google.android.gms:play-services-auth:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/12970a3425d6e0d79ed09342ffcab6fd/AndroidManifest.xml:19:5-25:19
 MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/ec9168b656534c3dc8b6c768d4c11f10/AndroidManifest.xml:28:5-20
@@ -155,19 +155,19 @@ MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /root/.gradle/cach
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7d7c786bce2f585f489e1dc01ba4d548/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/7d7c786bce2f585f489e1dc01ba4d548/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:18:9-35
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:16:9-41
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:17:9-54
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:14:9-35
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:19:9-40
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:18:9-40
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:13:9-38
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:12:9-38
 meta-data#com.facebook.sdk.ApplicationId
 ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:29:9-31:55
 	android:value
@@ -175,97 +175,101 @@ ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:29:9-
 	android:name
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:30:13-58
 activity#id.co.imastudio.libawaydevsummit.MainActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:33:9-41:20
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:33:9-35:75
 	android:theme
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:35:13-72
 	android:name
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:34:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:36:13-40:29
-action#android.intent.action.MAIN
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:37:17-69
-	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:37:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:39:17-77
-	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:39:27-74
 activity#com.facebook.FacebookActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:44:9-48:75
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:38:9-42:75
 	android:label
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:47:13-45
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:41:13-45
 	android:configChanges
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:46:13-96
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:40:13-96
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:48:13-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:42:13-72
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:45:13-57
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:39:13-57
 activity#id.co.imastudio.libawaydevsummit.LoginActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:49:9-62:20
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:43:9-56:20
 	android:exported
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:52:13-36
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:46:13-36
 	android:configChanges
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:51:13-96
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:45:13-96
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:53:13-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:47:13-72
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:50:13-42
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:44:13-42
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:54:13-61:29
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:48:13-55:29
 action#android.intent.action.VIEW
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:55:17-69
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:49:17-69
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:55:25-66
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:49:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:57:17-76
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:51:17-76
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:57:27-73
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:51:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:58:17-78
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:52:17-78
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:58:27-75
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:52:27-75
 data
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:60:17-75
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:54:17-75
 	android:scheme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:60:23-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:54:23-72
 activity#id.co.imastudio.libawaydevsummit.RegisterActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:63:9-65:75
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:57:9-59:75
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:65:13-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:59:13-72
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:64:13-45
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:58:13-45
 activity#id.co.imastudio.libawaydevsummit.LaunchScreenActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:66:9-70:20
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:60:9-62:84
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:68:13-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:62:13-72
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:67:13-49
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:61:13-49
 activity#id.co.imastudio.libawaydevsummit.BaseApp
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:71:9-45
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:63:9-45
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:71:19-42
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:63:19-42
 activity#id.co.imastudio.libawaydevsummit.AuthNomorHp
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:72:9-74:75
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:64:9-66:75
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:74:13-72
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:66:13-72
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:73:13-40
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:65:13-40
 activity#id.co.imastudio.libawaydevsummit.Utama
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:75:9-43
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:67:9-43
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:75:19-40
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:67:19-40
 activity#id.co.imastudio.libawaydevsummit.TambahLimbahActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:76:9-112
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:68:9-70:69
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:76:56-109
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:70:13-66
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:76:19-55
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:69:13-49
 activity#id.co.imastudio.libawaydevsummit.PenjualLimbah.DashboardPenjualActivity
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:77:9-79:20
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:71:9-79:20
 	android:theme
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:77:74-130
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:73:13-69
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:77:19-73
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:72:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:74:13-78:29
+action#android.intent.action.MAIN
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:75:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:77:27-74
+activity#id.co.imastudio.libawaydevsummit.PenjualLimbah.PromoteActivity
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:80:9-76
+	android:name
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:80:19-64
 uses-sdk
 INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
@@ -361,11 +365,11 @@ INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 		INJECTED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:25:13-27:57
+ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:24:13-26:58
 	android:resource
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:27:17-55
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:26:17-55
 	android:name
-		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:26:17-67
+		ADDED from /home/khilman/Documents/IMADEV/app/src/main/AndroidManifest.xml:25:17-67
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
 ADDED from [com.google.android.gms:play-services-auth:11.6.0] /root/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/12970a3425d6e0d79ed09342ffcab6fd/AndroidManifest.xml:20:9-189
 	android:excludeFromRecents

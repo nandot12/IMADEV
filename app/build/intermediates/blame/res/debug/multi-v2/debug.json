@@ -5342,11 +5342,9 @@
                 {
                     "source": "/home/khilman/Documents/IMADEV/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1,-1,-1,10,-1",
-                        "startColumns": "-1,-1,-1,-1,-1,-1,4,-1",
-                        "startOffsets": "-1,-1,-1,-1,-1,-1,471,-1",
-                        "endColumns": "-1,-1,-1,-1,-1,-1,107,-1",
-                        "endOffsets": "-1,-1,-1,-1,-1,-1,574,-1"
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
                     },
                     "to": {
                         "startLines": "848,886,887,888,889,894,903,907",
@@ -5405,9 +5403,11 @@
                 {
                     "source": "/home/khilman/Documents/IMADEV/app/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
+                        "startLines": "-1,2,3",
+                        "startColumns": "-1,4,4",
+                        "startOffsets": "-1,55,102",
+                        "endColumns": "-1,46,50",
+                        "endOffsets": "-1,97,148"
                     },
                     "to": {
                         "startLines": "122,123,124",

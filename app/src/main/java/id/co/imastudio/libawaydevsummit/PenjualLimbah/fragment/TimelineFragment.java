@@ -24,6 +24,8 @@ public class TimelineFragment extends Fragment {
     RecyclerView listLimbahKu;
     Unbinder unbinder;
     String[] data = {"Limbah kayu jati", "Botol Plastik bekas aQua", "Potongan pohon Arbisa", "Platik bekas kemasan Minuman", "Daun lontar kering"};
+
+
     public TimelineFragment() {
         // Required empty public constructor
     }

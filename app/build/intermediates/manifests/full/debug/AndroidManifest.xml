@@ -48,13 +48,7 @@
 
         <activity
             android:name="id.co.imastudio.libawaydevsummit.MainActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
 
         <!-- Add this -->
         <activity
@@ -81,8 +75,7 @@
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity
             android:name="id.co.imastudio.libawaydevsummit.LaunchScreenActivity"
-            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
-        </activity>
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
         <activity android:name="id.co.imastudio.libawaydevsummit.BaseApp" />
         <activity
             android:name="id.co.imastudio.libawaydevsummit.AuthNomorHp"
@@ -94,7 +87,13 @@
         <activity
             android:name="id.co.imastudio.libawaydevsummit.PenjualLimbah.DashboardPenjualActivity"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
+        <activity android:name="id.co.imastudio.libawaydevsummit.PenjualLimbah.PromoteActivity" />
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"

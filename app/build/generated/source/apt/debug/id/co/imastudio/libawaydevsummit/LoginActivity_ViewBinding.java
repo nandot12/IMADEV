@@ -19,11 +19,11 @@ public class LoginActivity_ViewBinding implements Unbinder {
 
   private View view2131296301;
 
-  private View view2131296369;
+  private View view2131296370;
 
   private View view2131296302;
 
-  private View view2131296388;
+  private View view2131296390;
 
   private View view2131296300;
 
@@ -52,7 +52,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.idnForgotPass, "field 'idnForgotPass' and method 'onViewClicked'");
     target.idnForgotPass = Utils.castView(view, R.id.idnForgotPass, "field 'idnForgotPass'", ImageView.class);
-    view2131296369 = view;
+    view2131296370 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -70,7 +70,7 @@ public class LoginActivity_ViewBinding implements Unbinder {
     });
     view = Utils.findRequiredView(source, R.id.linkSignUp, "field 'linkSignUp' and method 'onViewClicked'");
     target.linkSignUp = Utils.castView(view, R.id.linkSignUp, "field 'linkSignUp'", ImageView.class);
-    view2131296388 = view;
+    view2131296390 = view;
     view.setOnClickListener(new DebouncingOnClickListener() {
       @Override
       public void doClick(View p0) {
@@ -109,12 +109,12 @@ public class LoginActivity_ViewBinding implements Unbinder {
 
     view2131296301.setOnClickListener(null);
     view2131296301 = null;
-    view2131296369.setOnClickListener(null);
-    view2131296369 = null;
+    view2131296370.setOnClickListener(null);
+    view2131296370 = null;
     view2131296302.setOnClickListener(null);
     view2131296302 = null;
-    view2131296388.setOnClickListener(null);
-    view2131296388 = null;
+    view2131296390.setOnClickListener(null);
+    view2131296390 = null;
     view2131296300.setOnClickListener(null);
     view2131296300 = null;
   }

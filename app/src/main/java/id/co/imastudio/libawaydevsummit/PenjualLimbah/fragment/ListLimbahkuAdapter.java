@@ -1,11 +1,14 @@
 package id.co.imastudio.libawaydevsummit.PenjualLimbah.fragment;
 
+import android.content.Intent;
 import android.support.v4.app.FragmentActivity;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
+import id.co.imastudio.libawaydevsummit.PenjualLimbah.PromoteActivity;
 import id.co.imastudio.libawaydevsummit.R;
 
 /**
@@ -30,7 +33,12 @@ class ListLimbahkuAdapter extends RecyclerView.Adapter<ListLimbahkuAdapter.MyHol
 
     @Override
     public void onBindViewHolder(MyHolder holder, int position) {
-
+        holder.linkPromote.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                c.startActivity(new Intent(c, PromoteActivity.class));
+            }
+        });
     }
 
     @Override
@@ -39,8 +47,10 @@ class ListLimbahkuAdapter extends RecyclerView.Adapter<ListLimbahkuAdapter.MyHol
     }
 
     public class MyHolder extends RecyclerView.ViewHolder {
+        TextView linkPromote;
         public MyHolder(View itemView) {
             super(itemView);
+            linkPromote = (TextView) itemView.findViewById(R.id.linkPromote);
         }
     }
 }
