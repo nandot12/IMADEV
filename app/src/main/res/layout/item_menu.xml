@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/backgroundbutton"
+    android:layout_height="280dp">
+
+    <ImageView
+            android:layout_margin="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/photo1"
+        android:id="@+id/imageItem"
+        android:scaleType="fitXY"
+        />
+
+    <TextView
+        android:id="@+id/textJdlItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp"
+        android:fontFamily="@font/timeburnerbold"
+        android:layout_marginLeft="10dp"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/imageItem"
+        android:text="Mainan Anak dari botol unik"/>
+
+    <TextView
+        android:id="@+id/textHargaItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rp.10.000"
+        android:fontFamily="@font/timeburnernormal"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/textJdlItem"
+        android:textColor="@android:color/holo_orange_dark"/>
+
+    <TextView
+        android:id="@+id/textTempatItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pamulang"
+        android:fontFamily="@font/timeburnernormal"
+        android:layout_above="@+id/textProvItem"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="bottom"/>
+
+    <TextView
+        android:id="@+id/textProvItem"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jakarta"
+        android:fontFamily="@font/timeburnerbold"
+        android:drawableLeft="@drawable/iconmap"
+        android:textColor="@android:color/black"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_gravity="bottom"/>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:src="@drawable/iconpp"/>
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

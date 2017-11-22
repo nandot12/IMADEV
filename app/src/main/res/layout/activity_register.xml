@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:padding="40dp"
+    tools:context="id.co.imastudio.libawaydevsummit.LoginActivity">
+
+
+    <EditText
+        android:id="@+id/loginUsername"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/textLogo"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnernormal"
+        android:hint="@string/username"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+
+    <EditText
+        android:id="@+id/loginEmail"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/loginUsername"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnernormal"
+        android:hint="Email"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/loginNumb"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+
+        android:layout_below="@+id/loginEmail"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnernormal"
+        android:hint="No Hp"
+        android:inputType="number"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <Spinner
+        android:id="@+id/regType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginNumb"></Spinner>
+
+
+    <EditText
+        android:id="@+id/loginPassword"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/regType"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnernormal"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/loginConfirm"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/loginPassword"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnernormal"
+        android:hint="Confirm Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/btnSignGmail"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/loginConfirm"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/signup"/>
+
+
+</RelativeLayout>

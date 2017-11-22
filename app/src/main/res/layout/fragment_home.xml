@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                 xmlns:app="http://schemas.android.com/apk/res-auto"
+                                                 xmlns:tools="http://schemas.android.com/tools"
+                                                 android:layout_width="match_parent"
+                                                 android:layout_height="match_parent"
+                                                 android:background="@drawable/bg"
+
+
+                                                 tools:context="id.co.imastudio.libawaydevsummit.Fragment.HomeFragment">
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:fitsSystemWindows="false"
+        android:layout_height="match_parent">
+
+
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/htab_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/htab_collapse_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="256dp"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed|snap"
+            app:titleEnabled="false">
+
+            <ImageView
+                android:id="@+id/imageSlide"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_below="@+id/toolbar"
+                android:scaleType="fitXY"
+                android:src="@drawable/bgslide"/>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.3"
+                android:background="@android:color/black"
+                android:fitsSystemWindows="true"/>
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/htab_toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_gravity="top"
+                android:layout_marginBottom="48dp"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+            <LinearLayout
+                android:id="@+id/linear"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:layout_below="@id/htab_toolbar"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="50dp"
+                android:background="@drawable/bgcontent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/timeburnerbold"
+                    android:text="Dapatkan Limbah"
+                    android:textColor="@android:color/holo_orange_light"/>
+
+            </LinearLayout>
+
+
+            <!-- TODO: Update blank fragment layout -->
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tabHome"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_below="@+id/linear"
+                android:layout_gravity="bottom"
+                android:background="@drawable/bgcontent"
+                app:tabIndicatorColor="@android:color/white"></android.support.design.widget.TabLayout>
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pagerHome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tabHome"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </android.support.v4.view.ViewPager>
+
+    </android.support.design.widget.CoordinatorLayout>
+
+</RelativeLayout>

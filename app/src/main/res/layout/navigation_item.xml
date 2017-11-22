@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="15dp"
+        android:id="@+id/gambarmenu"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/logo"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textColor="@android:color/white"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center"
+        android:id="@+id/textmenu"/>
+
+</LinearLayout>

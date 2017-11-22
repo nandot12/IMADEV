@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-es-rES/values-es-rES.xml",
+            "map": [
+                {
+                    "source": "/Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/res/values-es-rES/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "185",
+                        "endColumns": "61",
+                        "endOffsets": "242"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "61",
+                        "endOffsets": "112"
+                    }
+                }
+            ]
+        }
+    ]
+}

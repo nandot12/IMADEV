@@ -1,0 +1,476 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/5ef9dbc48625fdc3f41e04b0d8d10661/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:16:1-26:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/AndroidManifest.xml:21:1-30:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/10f06cef5ca34e2f0d8d81fa8aae5319/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/51e86fcef9a5ab653417f2ae1aea9c4c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/676c6f9541ed4e27d345bbf849c19393/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e9a8a155001bdfd10fa85e4c39a52f13/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/fb457e05ffac78355994402e55c23d5f/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/65e2994f0f92d9c0e3a6a2efa2fd7463/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9031d34acd8fc9f45052cf2c262d19da/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/61c74962653e2c0272b03ea7826e3adf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.1.aar/eb6409aebd6a71ef40226ae8c82b87e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/ddb72575d847ac66d627656eddbd0c0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/90bc6fb34be4c0ec81393569cd86cd1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/b22c54d1557cfe1c37deb56a039e1854/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/68075be55a24ff84d2de6828a5077011/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/81dad670cca37e3f2b59e1b81097632a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7ec514553c7e870c31b480d65c9500f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/c16b7fac48addd089acc6263dee095a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/659e32b9afbc4c8e3d17859bf0442e72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/0db62a8f1727f80c33d4ae892be708bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/9d44ecd03aa28429fa814d2590b8f0c0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/0c31873f13a49b180d936790473952c1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/c1823e489a51cfd72b7215e9521df065/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/aa4cfc416cb3922db25e382ec67d9062/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/be515ecb2fc4df9f521ef5555372bee7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/c1759382129bce068a4e07ccdabe6f6b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/acaac65c1cb326fe82aab3262bce93b7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c47e43b41a6ea10c28a4c564f2ae34e6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/b8a62146ac1b17d0f8d4acaca12eeaef/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:3:11-53
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:1-68:12
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:8:5-66:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:19:5-25:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/AndroidManifest.xml:28:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/10f06cef5ca34e2f0d8d81fa8aae5319/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/10f06cef5ca34e2f0d8d81fa8aae5319/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e9a8a155001bdfd10fa85e4c39a52f13/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e9a8a155001bdfd10fa85e4c39a52f13/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9031d34acd8fc9f45052cf2c262d19da/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9031d34acd8fc9f45052cf2c262d19da/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/9d44ecd03aa28429fa814d2590b8f0c0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/9d44ecd03aa28429fa814d2590b8f0c0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/0c31873f13a49b180d936790473952c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/0c31873f13a49b180d936790473952c1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/c1823e489a51cfd72b7215e9521df065/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/c1823e489a51cfd72b7215e9521df065/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/aa4cfc416cb3922db25e382ec67d9062/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/aa4cfc416cb3922db25e382ec67d9062/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/be515ecb2fc4df9f521ef5555372bee7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/be515ecb2fc4df9f521ef5555372bee7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/c1759382129bce068a4e07ccdabe6f6b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/c1759382129bce068a4e07ccdabe6f6b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/acaac65c1cb326fe82aab3262bce93b7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/acaac65c1cb326fe82aab3262bce93b7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c47e43b41a6ea10c28a4c564f2ae34e6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c47e43b41a6ea10c28a4c564f2ae34e6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/b8a62146ac1b17d0f8d4acaca12eeaef/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/b8a62146ac1b17d0f8d4acaca12eeaef/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:9:9-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:16:9-18:54
+	android:value
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:18:13-52
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:17:13-58
+activity#id.co.imastudio.libawaydevsummit.MainActivity
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:20:9-23:20
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:22:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:21:13-41
+activity#com.facebook.FacebookActivity
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:26:9-30:74
+	android:label
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:29:13-45
+	android:configChanges
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:28:13-96
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:30:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:27:13-57
+activity#id.co.imastudio.libawaydevsummit.LoginActivity
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:31:9-44:20
+	android:exported
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:34:13-36
+	android:configChanges
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:33:13-96
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:32:13-42
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:36:13-43:29
+action#android.intent.action.VIEW
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:39:17-75
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:39:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:40:27-75
+data
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:42:17-74
+	android:scheme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:42:23-72
+activity#id.co.imastudio.libawaydevsummit.RegisterActivity
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:45:9-48:20
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:47:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:46:13-45
+activity#id.co.imastudio.libawaydevsummit.LaunchScreenActivity
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:49:9-57:20
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:51:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:50:13-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:52:13-56:29
+action#android.intent.action.MAIN
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:55:27-74
+activity#id.co.imastudio.libawaydevsummit.BaseApp
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:58:9-59:20
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:58:19-42
+activity#id.co.imastudio.libawaydevsummit.AuthNomorHp
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:60:9-63:20
+	android:theme
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:62:13-72
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:61:13-40
+activity#id.co.imastudio.libawaydevsummit.Utama
+ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml:64:19-40
+uses-sdk
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/5ef9dbc48625fdc3f41e04b0d8d10661/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/5ef9dbc48625fdc3f41e04b0d8d10661/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:17:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/10f06cef5ca34e2f0d8d81fa8aae5319/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/10f06cef5ca34e2f0d8d81fa8aae5319/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/51e86fcef9a5ab653417f2ae1aea9c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/design-27.0.1.aar/51e86fcef9a5ab653417f2ae1aea9c4c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/676c6f9541ed4e27d345bbf849c19393/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/676c6f9541ed4e27d345bbf849c19393/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e9a8a155001bdfd10fa85e4c39a52f13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/e9a8a155001bdfd10fa85e4c39a52f13/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/fb457e05ffac78355994402e55c23d5f/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/fb457e05ffac78355994402e55c23d5f/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/65e2994f0f92d9c0e3a6a2efa2fd7463/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/65e2994f0f92d9c0e3a6a2efa2fd7463/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9031d34acd8fc9f45052cf2c262d19da/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/9031d34acd8fc9f45052cf2c262d19da/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/61c74962653e2c0272b03ea7826e3adf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/61c74962653e2c0272b03ea7826e3adf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.1.aar/eb6409aebd6a71ef40226ae8c82b87e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/palette-v7-27.0.1.aar/eb6409aebd6a71ef40226ae8c82b87e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/ddb72575d847ac66d627656eddbd0c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.1.aar/ddb72575d847ac66d627656eddbd0c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/90bc6fb34be4c0ec81393569cd86cd1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/transition-27.0.1.aar/90bc6fb34be4c0ec81393569cd86cd1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/b22c54d1557cfe1c37deb56a039e1854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/b22c54d1557cfe1c37deb56a039e1854/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/68075be55a24ff84d2de6828a5077011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/68075be55a24ff84d2de6828a5077011/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/81dad670cca37e3f2b59e1b81097632a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/81dad670cca37e3f2b59e1b81097632a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7ec514553c7e870c31b480d65c9500f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/7ec514553c7e870c31b480d65c9500f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/c16b7fac48addd089acc6263dee095a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/c16b7fac48addd089acc6263dee095a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/659e32b9afbc4c8e3d17859bf0442e72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/659e32b9afbc4c8e3d17859bf0442e72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/0db62a8f1727f80c33d4ae892be708bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/0db62a8f1727f80c33d4ae892be708bf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/9d44ecd03aa28429fa814d2590b8f0c0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/9d44ecd03aa28429fa814d2590b8f0c0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/0c31873f13a49b180d936790473952c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/0c31873f13a49b180d936790473952c1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/c1823e489a51cfd72b7215e9521df065/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/c1823e489a51cfd72b7215e9521df065/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/aa4cfc416cb3922db25e382ec67d9062/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/aa4cfc416cb3922db25e382ec67d9062/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/be515ecb2fc4df9f521ef5555372bee7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/be515ecb2fc4df9f521ef5555372bee7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/c1759382129bce068a4e07ccdabe6f6b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/c1759382129bce068a4e07ccdabe6f6b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/acaac65c1cb326fe82aab3262bce93b7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/acaac65c1cb326fe82aab3262bce93b7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c47e43b41a6ea10c28a4c564f2ae34e6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/c47e43b41a6ea10c28a4c564f2ae34e6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/b8a62146ac1b17d0f8d4acaca12eeaef/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/b8a62146ac1b17d0f8d4acaca12eeaef/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/7a38593ca5ce67d6fe0b16a81aa99337/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/c7f2bca46b289492164be8f4b27fcd0d/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/0317586348ad7b80a868a9152f5c65ff/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/43eebd3e13979c75ca59e2e3b1369367/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:17-71
+permission#id.co.imastudio.libawaydevsummit.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:27:22-76
+uses-permission#id.co.imastudio.libawaydevsummit.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:31:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:32:13-35:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+id.co.imastudio.libawaydevsummit
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:34:27-58
+category#id.co.imastudio.libawaydevsummit
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:40:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/e2c61f46bf186df8b2616516fa52cf32/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/b35f80161b16f2f42f29e9250c5d6d2d/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/dffaa1e440ba6926767813f7155fcefe/AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6807f368376489cf744720175bd7a1d7/AndroidManifest.xml:26:13-58

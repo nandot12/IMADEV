@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="id.co.imastudio.libawaydevsummit.LoginActivity">
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/logo"/>
+
+    <ImageView
+        android:id="@+id/textLogo"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/logo"
+        android:src="@drawable/title"
+        />
+
+    <EditText
+        android:id="@+id/loginUsername"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/textLogo"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnerbold"
+        android:hint="Email"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/loginPassword"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/loginUsername"
+        android:background="@drawable/garis"
+        android:fontFamily="@font/timeburnerbold"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="10dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btnSignGmail"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/loginPassword"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/loginbtton"
+        android:textColor="@android:color/white"/>
+
+    <ImageView
+        android:id="@+id/idnForgotPass"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:layout_below="@+id/btnSignGmail"
+        android:scaleType="fitEnd"
+        android:src="@drawable/forgetpassword"
+        />
+
+
+    <Button
+        android:id="@+id/btnSignInGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/idnForgotPass"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/logingooglebt"
+        android:textColor="@android:color/white"
+        />
+
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_below="@+id/btnSignInGoogle"/>
+
+    <FrameLayout
+        android:id="@+id/FrameLayout1"
+        android:layout_below="@+id/btnSignInGoogle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btnSignFb"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:textColor="#ddd"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/loginfacebookbt"
+            android:onClick="onClick"
+             />
+    </FrameLayout>
+
+    <ImageView
+        android:id="@+id/linkSignUp"
+        android:layout_width="70dp"
+        android:layout_height="23dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/signup"
+        />
+
+
+</RelativeLayout>

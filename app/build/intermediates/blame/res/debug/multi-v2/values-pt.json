@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nandoseptianhusni/Documents/playable/LibaWayDevSummit/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/0db62a8f1727f80c33d4ae892be708bf/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2051",
+                        "endColumns": "100",
+                        "endOffsets": "2147"
+                    }
+                },
+                {
+                    "source": "/Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/676c6f9541ed4e27d345bbf849c19393/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1904",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,1984"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,746,829,909,996,1103,1215,1317,1425,1532,1642,1804,1966",
+                        "endColumns": "119,105,106,88,100,117,82,79,86,106,111,101,107,106,109,161,99,84",
+                        "endOffsets": "220,326,433,522,623,741,824,904,991,1098,1210,1312,1420,1527,1637,1799,1899,2046"
+                    }
+                },
+                {
+                    "source": "/Users/nandoseptianhusni/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.0.0.aar/1b3aee303e3c96a3e558b717dd135441/res/values-pt/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "181",
+                        "endColumns": "61",
+                        "endOffsets": "238"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1904",
+                        "endColumns": "61",
+                        "endOffsets": "1961"
+                    }
+                }
+            ]
+        }
+    ]
+}

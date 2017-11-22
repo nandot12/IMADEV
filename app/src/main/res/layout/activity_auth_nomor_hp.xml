@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:padding="10dp"
+
+    tools:context="id.co.imastudio.libawaydevsummit.AuthNomorHp">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/authName"
+        android:padding="5dp"
+        android:background="@drawable/garis"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:text="nando Septian husni"
+        android:fontFamily="@font/timeburnernormal"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/authEmail"
+        android:padding="5dp"
+        android:background="@drawable/garis"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="nandohusni93@gmail.com"
+        android:fontFamily="@font/timeburnernormal"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:id="@+id/authHp"
+        android:padding="5dp"
+        android:inputType="number"
+        android:hint="Your handpone"
+        android:background="@drawable/garis"
+        android:textColor="@android:color/white"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:textColorHint="@android:color/white"
+        android:fontFamily="@font/timeburnernormal"
+        />
+
+    <Button
+        android:id="@+id/btnVerify"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Verify"
+        android:fontFamily="@font/timeburnernormal"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/backgroundbutton"
+        />
+</LinearLayout>
